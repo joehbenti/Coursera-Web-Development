@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
 Web development Course - at coursera
 
@@ -8,10 +8,6 @@ Solution for Modules
 
 [Module 2](https://joehbenti.github.io/Coursera-Web-Development/module2-solution)
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 ### Support or Contact
